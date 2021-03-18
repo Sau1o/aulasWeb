@@ -5,4 +5,5 @@ aprender CSS para formatar os estilos da página
 aula1: arquivos html com as tags básicas vista na aula. E a atividade exemplo, também desenvolvida em aula.  
 pingPong: um jogo de ping-pong usando HTML.  
 Jokenpo: famoso jogo pokenpo usando HTML
-TecBlog: um blog usando HTML e CSS na formatação (apenas a página index.html)
+TecBlog: um blog usando HTML e CSS na formatação (apenas a página index.html)  
+atividade2: atividade para praticar as formatações CSS.
