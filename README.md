@@ -10,5 +10,6 @@ atividade2: atividade para praticar as formatações CSS.
 tabuada: exemplo de um laços for, criando tabudas do 1 até ao do 10  
 App Help Desk: demonstração do uso formulário (GET E POST), e controle de acesso  
 aula_PHP: alguns scripts básicos sobre PHP  
-App Lista Tarefa: demonstração do uso de PDO com MySql    
+App Lista Tarefa: demonstração do uso de PDO com MySql  
+aula_PHP_PDO: alguns scripts básicos sobre PHP usando PDO (conexão, insert, update, delete)    
 docsDeApoio: slides em  pdf, para ajudar no conteudo teórico
