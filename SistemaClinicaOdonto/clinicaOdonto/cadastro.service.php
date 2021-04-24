@@ -17,6 +17,12 @@ class CadastroService {
 		$stmt->bindValue(':nome',$this->cadastro->__get('nome'));
 		$stmt->bindValue(':cpf',$this->cadastro->__get('cpf'));
 		$stmt->execute();
+
+		$query = 'insert into tb_avaliacao(queixa,historico)values(?,?)';
+		$stmt = $this->conexao->prepare($query);
+		$stmt->bindValue(1,"");
+		$stmt->bindValue(2,"");
+		$stmt->execute();
 	}
 
 	public function recuperar (){ //read
